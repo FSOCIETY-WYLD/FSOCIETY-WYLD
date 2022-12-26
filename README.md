@@ -28,10 +28,13 @@
 <p>Evade script:</p>
     <p>loadstring(game:HttpGet("https://raw.githubusercontent.com/FSOCIETY-WYLD/Evade-Script/main/Main.lua",true))()</p>
 -----------------------
+<p>Pls Donate script:</p>
+    <p>loadstring(game:HttpGet("https://raw.githubusercontent.com/FSOCIETY-WYLD/Pls-Donate/main/Main.lua",true))()</p>
+-----------------------
 
 <h2> NEWS </h2>
 
-<p> No New </p>
+<li>Pls Donate Script</li>
 
 ![WYLD (1)](https://user-images.githubusercontent.com/121406222/209567557-251db547-bda0-4868-a2dc-4d697fc0758e.png)
 
