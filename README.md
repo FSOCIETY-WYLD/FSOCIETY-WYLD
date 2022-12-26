@@ -31,7 +31,7 @@
 <p>Pls Donate script:</p>
     <p>loadstring(game:HttpGet("https://raw.githubusercontent.com/FSOCIETY-WYLD/Pls-Donate/main/Main.lua",true))()</p>
 -----------------------
-<p>Free Cam script:</p>
+<p>Free Cam script (all games):</p>
     <p>loadstring(game:HttpGet("https://raw.githubusercontent.com/FSOCIETY-WYLD/Free-Roblox-cam/main/Main.lua",true))()</p>
 -----------------------
 
